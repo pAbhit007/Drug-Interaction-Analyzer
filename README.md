@@ -156,7 +156,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Contact
 
-Project Maintainer - [your-pandey.06abhit@gmail.com](mailto:pandey.06abhit@gmail.com)
+Project Maintainer - [pandey.06abhit@gmail.com](mailto:pandey.06abhit@gmail.com)
 
 Project Link: [https://github.com/pAbhit007/drug-interaction-analyzer](https://github.com/pAbhit007/drug-interaction-analyzer)
 
